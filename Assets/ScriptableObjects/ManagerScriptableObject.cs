@@ -10,7 +10,5 @@ public class ManagerScriptableObject : ScriptableObject
 
     public int prefabnumber;
 
-    public Vector3[] spawnPoints; 
-
     public GameObject prefabSpawn;
 }
